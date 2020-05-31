@@ -27,4 +27,9 @@ Again, we see that the stats are very similar. December can be a bit cooler at t
 <img src="https://github.com/songmanrob/surfs_up/blob/master/temp_df_boxplot.png" width="50%" height="50%">
 
 
-In conclusion, there doesn't seem to much significant difference in precipitation or temperature between June and December which is great news for ice cream sales all year long!
+We could deepen this analysis by generating these comparisons separately for each reporting station and then analyze the reliability of each station to make sure that our data is the best it can be.
+
+Also, for further analysis, we could investigate the number of days of significant precipitation in each month to get an idea of how many days we are likely to be "rained out" of sales for each month. We could then do the same for temperature, figuring how many days it is too cold for ice cream (if such a thing exists).
+
+
+In conclusion, based on the data we've gathered to this point, there doesn't seem to much significant difference in precipitation or temperature between June and December which is great news for ice cream sales all year long!
