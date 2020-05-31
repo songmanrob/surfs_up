@@ -8,16 +8,17 @@ We used sqlalchemy to gather the data for June only and December only from our d
 Then, we used Pandas to manipulate the data for comparison.
 
 Here is the key statistical data for precipitation for both June and December for years 2010-2017:
-<img src="https://github.com/songmanrob/surfs_up/blob/master/prcp_df_describe.png" width="50%" height="50%">
+<img src="https://github.com/songmanrob/surfs_up/blob/master/prcp_df_describe.png" width="25%" height="25%">
 
 As shown above, the quartiles are fairly similar between the two. The average(mean) precipitation for December is nearly 1/10 inch higher and the max precipitation is higher, but since the quartiles are so close, the overall effect on the ice cream sales will probably be negligible.
 
 The boxplot y-axis had to be limited to under 1/2 inch just to see the statistical difference between the two. That's a pretty good sign.
+
 <img src="https://github.com/songmanrob/surfs_up/blob/master/prcp_df_boxplot.png" width="50%" height="50%">
 
 
 Here is the key statistical data for temperature for both June and December for 2010-2017:
-<img src="https://github.com/songmanrob/surfs_up/blob/master/temp_df_describe.png" width="50%" height="50%">
+<img src="https://github.com/songmanrob/surfs_up/blob/master/temp_df_describe.png" width="25%" height="25%">
 
 Again, we see that the stats are very similar. December can be a bit cooler at times, but overall, it's still very temperate and great ice cream weather.
 
